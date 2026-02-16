@@ -3,6 +3,8 @@ to run this programme user have to install some python libraries for that follow
 2. pip install pygetwindow pyautogui , this will install libraries to run apk.
 
 in case you dont have pip use another command -
+
+
 3. curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py , this will install pip .
 
 after this run the uploaded file by saving to your device.
